@@ -1,11 +1,11 @@
 import React from 'react'
 
-const Dashboard = () => {
+const HomePage = () => {
   return (
     <div className='min-h-screen flex flex-col justify-center items-center'>
-      Welcome to ProjectOn 😁
+      Welcome to your Dashboard 🚀
     </div>
   )
 }
 
-export default Dashboard;
+export default HomePage

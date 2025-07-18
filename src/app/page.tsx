@@ -8,7 +8,7 @@ export default function Home() {
         <h1 className="text-3xl">Welcome to ProjectOn 👋</h1>
         <p className="text-lg">Create, discover, and collaborate on projects with the right people.</p>
         <div className="flex gap-4">
-          <Link href="/auth/signup">
+          <Link href="/auth/sign-up">
           <Button>Get Started</Button>
           </Link>
           <Link href="/auth/login">
