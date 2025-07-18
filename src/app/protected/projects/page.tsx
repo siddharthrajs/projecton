@@ -1,11 +1,11 @@
 import React from 'react'
 
-const HomePage = () => {
+const ProjectsPage = () => {
   return (
     <div className='h-full flex flex-col justify-center items-center'>
-      Welcome to your Dashboard 🚀
+      You can find your projects here ⭐
     </div>
   )
 }
 
-export default HomePage
+export default ProjectsPage;
